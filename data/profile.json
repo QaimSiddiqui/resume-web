@@ -69,27 +69,7 @@
         }
       ]
     },
-    {
-      "title": "Software",
-      "type": "tag",
-      "subskills": [
-        {
-          "name": "Docker"
-        },
-        {
-          "name": "Jira"
-        },
-        {
-          "name": "Unity"
-        },
-        {
-          "name": "Godot"
-        },
-        {
-          "name": "Google Analytics"
-        }
-      ]
-    },
+
     {
       "title": "Databases",
       "type": "tag",
