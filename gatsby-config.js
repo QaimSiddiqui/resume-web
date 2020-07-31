@@ -6,28 +6,24 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Baran Cezayirli | Technologist`,
-    author: `Baran Cezayirli`,
-    description: `With 10+ years of experience in various industries, I help tech
-              startups from idea phase to high volumes. I design and build
-              scalable solutions, implement internal processes that fit your
-              organization, build teams that produce results.`,
-    siteUrl: `https://barancezayirli.com/`,
-    social: {
-      twitter: `barancezayirli`,
-    },
+    title: `Qaim Ali | Technologist`,
+    author: `Qaim Ali`,
+    description: `To become a part of a reputable organisation which provides a healthy growth and a competitive
+    environment, where I can utilise and polish my Software Engineering skills and technical expertise for
+    the benefit of both the organisation and myself.`,
+    siteUrl: `https://qaimali.netlify.com/`,
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Baran Cezayirli | Technologist`,
+        name: `Qaim Ali | Technologist`,
         short_name: `CV`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#38B2AC`,
         display: `standalone`,
-        icon: 'src/assets/site-icon.png'
+        icon: 'src/assets/site-icon.png',
       },
     },
     'gatsby-plugin-offline',
@@ -54,7 +50,7 @@ module.exports = {
       options: {
         printRejected: true,
         tailwind: true, // Enable tailwindcss support
-      }
-    }
+      },
+    },
   ],
 };
