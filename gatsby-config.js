@@ -6,18 +6,18 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Qaim Ali | Technologist`,
+    title: `Qaim Ali | JavaScript Engineer`,
     author: `Qaim Ali`,
-    description: `To become a part of a reputable organisation which provides a healthy growth and a competitive
+    description: `To become a part of a reputable organization which provides a healthy growth and a competitive
     environment, where I can utilise and polish my Software Engineering skills and technical expertise for
-    the benefit of both the organisation and myself.`,
+    the benefit of both the organization and myself.`,
     siteUrl: `https://qaimali.netlify.com/`,
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Qaim Ali | Technologist`,
+        name: `Qaim Ali | JavaScript Engineer`,
         short_name: `CV`,
         start_url: `/`,
         background_color: `#f7f0eb`,
