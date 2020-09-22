@@ -103,6 +103,7 @@
       "start": "11/2019",
       "end": "03/2020"
     },
+
     {
       "role": "React Js Engineer",
       "company": "KICS ,UET Lahore",
@@ -139,6 +140,13 @@
       "company": "Amoxt Solutions Inc. Lahore",
       "description": "Web applictaion, developed using Gatsby, React, Hasura , Node.js, GraphQl and Post-greSQl.",
       "link": "www.myseyara.com"
+    },
+    {
+      "name": "Power System Experts",
+      "company": "Freelance Project",
+      "description": "A Freelance Project which is Web applictaion, developed using MERN Stack.",
+      "status": "Progress",
+      "link": "powersystemexperts.com"
     },
     {
       "name": "Haji Sahab",
