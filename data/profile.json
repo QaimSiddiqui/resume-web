@@ -2,7 +2,6 @@
   "contact": {
     "phone": "+923018304642",
     "email": "qaim.ali.siddiqui@gmail.com",
-    "website": "https://qaimali.netlify.com",
     "location": "Lahore, Pakistan"
   },
   "skills": [
@@ -16,18 +15,18 @@
         },
 
         {
+          "name": "TypeScript",
+          "percent": 72
+        },
+        {
           "name": "Python",
           "percent": 79
         },
         {
           "name": "C#",
           "percent": 70
-        },
-
-        {
-          "name": "TypeScript",
-          "percent": 72
         }
+
       ]
     },
     {
@@ -41,6 +40,12 @@
           "name": "React Native"
         },
         {
+          "name": "Node Js"
+        },
+        {
+          "name": "Angular"
+        },
+        {
           "name": "Gatsby"
         },
         {
@@ -48,9 +53,6 @@
         },
         {
           "name": "Redux"
-        },
-        {
-          "name": "Node Js"
         },
         {
           "name": "Material UI"
@@ -97,12 +99,20 @@
   ],
   "experience": [
     {
+      "role": "Full Stack Developer",
+      "company": "HashLogics, Lahore",
+      "description": "Working as a fullstack developer, using React, React Native, Node js, Angular.",
+      "start": "06/2020",
+      "end": "Present"
+    },
+    {
       "role": "Front-end Web Engineer",
       "company": "Amoxt Solutions Inc. Lahore",
-      "description": "Worked on myseyara.com as Front-end Web Engineer with ReactJS/GatsbyJs",
+      "description": "Worked as a frontend engineer, used Gatsby, React, GraphQL APIs",
       "start": "11/2019",
-      "end": "03/2020"
+      "end": "02/2020"
     },
+    
 
     {
       "role": "React Js Engineer",
@@ -114,7 +124,7 @@
     {
       "role": "MERN Stack Developer",
       "company": "Alfain Technologies Lahore",
-      "description": "Worked as MERN Stack Developer and completed two projects during my contract",
+      "description": "Worked as a MERN Stack developer, used React, Redux, Node js",
       "start": "06/2018",
       "end": "10/2018"
     }
@@ -136,16 +146,27 @@
   "role": "JavaScript Engineer",
   "projects": [
     {
+      "name": "Go Real Europe",
+      "company": "HashLogics, Lahore",
+      "description": "Web applictaion, developed using Angular . I Worked on the Angular part of application at Hashlogics",
+      "link": "www.myplan2go.com"
+    },
+    {
       "name": "MySeyara",
       "company": "Amoxt Solutions Inc. Lahore",
       "description": "Web applictaion, developed using Gatsby, React, Hasura , Node.js, GraphQl and Post-greSQl.",
       "link": "www.myseyara.com"
     },
     {
+      "name": "Maktab Shinasi",
+      "company": "Freelance Project",
+      "description": " E learning mobile applictaion having Video lectures & Exam system, developed using React Native, Node.js",
+      "link": "play.google.com/store/apps/details?id=com.maktabshinasi"
+    },
+    {
       "name": "Power System Experts",
       "company": "Freelance Project",
       "description": "A Freelance Project which is Web applictaion, developed using MERN Stack.",
-      "status": "Progress",
       "link": "powersystemexperts.com"
     },
     {
