@@ -13,7 +13,6 @@
           "name": "Javascript",
           "percent": 86
         },
-
         {
           "name": "TypeScript",
           "percent": 72
@@ -26,7 +25,6 @@
           "name": "C#",
           "percent": 70
         }
-
       ]
     },
     {
@@ -71,7 +69,6 @@
         }
       ]
     },
-
     {
       "title": "Databases",
       "type": "tag",
@@ -88,7 +85,7 @@
       ]
     }
   ],
-  "summary": "To become a part of a reputable organisation which provides a healthy growth and a competitive environment, where I can utilise and polish my Software Engineering skills and technical expertise for the benefit of both the organisation and myself.",
+  "summary": "To become a part of a reputable organization which provides a healthy growth and a competitive environment, where I can utilise and polish my Software Engineering skills and technical expertise for the benefit of both the organisation and myself.",
   "education": [
     {
       "institution": "University of Engineering and Technology , Lahore",
@@ -101,30 +98,31 @@
     {
       "role": "Full Stack Developer",
       "company": "HashLogics, Lahore",
-      "description": "Working as a fullstack developer, using React, React Native, Node js, Angular.",
+      "description": [
+        " Managed multiple Mobile & Web applications using React & React Native",
+        "Build Restful APIs with Node.js, Express.js. & MongoDB",
+        "Authenticating & Validiating APIs using Passport, JWT & Joi , Build API docs using Swagger"
+      ],
       "start": "06/2020",
       "end": "Present"
     },
     {
       "role": "Front-end Web Engineer",
       "company": "Amoxt Solutions Inc. Lahore",
-      "description": "Worked as a frontend engineer, used Gatsby, React, GraphQL APIs",
+      "description": [
+        "Developed Interactive User interface using Gatsby, React, HTML and Sass",
+        " Integration of frontend with GraphQL APIs"
+      ],
       "start": "11/2019",
       "end": "02/2020"
-    },
-    
-
-    {
-      "role": "React Js Engineer",
-      "company": "KICS ,UET Lahore",
-      "description": "Worked as Front-end Engineer on ReactJS/Redux",
-      "start": "06/2019",
-      "end": "10/2019"
     },
     {
       "role": "MERN Stack Developer",
       "company": "Alfain Technologies Lahore",
-      "description": "Worked as a MERN Stack developer, used React, Redux, Node js",
+      "description": [
+        " Developed Client Side using React, Redux, Material UI.",
+        "Managed Restful APIs using Node.js Express.js"
+      ],
       "start": "06/2018",
       "end": "10/2018"
     }
@@ -185,7 +183,6 @@
       "name": "Learning Management System",
       "company": "KICS ,UET Lahore",
       "description": "A web-application on Django/Python with Microsoft SQL Server.",
-
       "link": ""
     }
   ],
