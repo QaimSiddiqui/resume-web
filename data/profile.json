@@ -99,7 +99,7 @@
       "role": "Full Stack Developer",
       "company": "HashLogics, Lahore",
       "description": [
-        " Managed multiple Mobile & Web applications using React & React Native",
+        "Managed multiple Mobile & Web applications using React & React Native",
         "Build Restful APIs with Node.js, Express.js. & MongoDB",
         "Authenticating & Validiating APIs using Passport, JWT & Joi , Build API docs using Swagger"
       ],
@@ -111,7 +111,7 @@
       "company": "Amoxt Solutions Inc. Lahore",
       "description": [
         "Developed Interactive User interface using Gatsby, React, HTML and Sass",
-        " Integration of frontend with GraphQL APIs"
+        "Integration of frontend with GraphQL APIs"
       ],
       "start": "11/2019",
       "end": "02/2020"
@@ -120,7 +120,7 @@
       "role": "MERN Stack Developer",
       "company": "Alfain Technologies Lahore",
       "description": [
-        " Developed Client Side using React, Redux, Material UI.",
+        "Developed Client Side using React, Redux, Material UI.",
         "Managed Restful APIs using Node.js Express.js"
       ],
       "start": "06/2018",
@@ -146,45 +146,40 @@
     {
       "name": "Go Real Europe",
       "company": "HashLogics, Lahore",
-      "description": "Web applictaion, developed using Angular . I Worked on the Angular part of application at Hashlogics",
+      "description": "Developed a Trip Builder app using Angular to tell user about travel destination while working at Hashlogics",
       "link": "https://www.myplan2go.com/"
     },
     {
       "name": "MySeyara",
       "company": "Amoxt Solutions Inc. Lahore",
-      "description": "Web applictaion, developed using Gatsby, React, Hasura , Node.js, GraphQl and Post-greSQl.",
+      "description": "A Web application to connect car shoppers with sellers, developed using Gatsby, React, Hasura , Node.js, GraphQl and PostgreSQl while working at Amoxt Solutions",
       "link": "https://www.myseyara.com/"
     },
     {
       "name": "Maktab Shinasi",
-      "company": "Freelance Project",
-      "description": " E learning mobile applictaion having Video lectures & Exam system, developed using React Native, Node.js",
+      "company": "",
+      "description": "A Mobile applictaion having Video lectures & Exam system, developed using React Native, Node.js",
       "link": "https://play.google.com/store/apps/details?id=com.maktabshinasi"
     },
     {
       "name": "Power System Experts",
-      "company": "Freelance Project",
-      "description": "A Freelance Project which is Web applictaion, developed using MERN Stack.",
+      "company": "",
+      "description": "A Web application for instructors where they can make announcements regarding details and timings about their courses",
       "link": "https://powersystemexperts.com/"
-    },
-    {
-      "name": "Haji Sahab",
-      "company": "Alfain Technologies Lahore",
-      "description": "A Web Application on ReactJs/Redux with MongoDB",
-      "link": ""
     },
     {
       "name": "Rent Inn",
       "company": "KICS ,UET Lahore",
-      "description": "A Web Application on ReactJs/Redux with MongoDB",
+      "description": "A Web Application where people can rent their houses developed using MERN Stack",
       "link": ""
     },
     {
       "name": "Learning Management System",
       "company": "KICS ,UET Lahore",
-      "description": "A web-application on Django/Python with Microsoft SQL Server.",
+      "description": "A web-application which manages from student regsitration to exam results on Django/Python with Microsoft SQL Server.",
       "link": ""
     }
+    
   ],
   "finalyearpropject": {
     "name": "Virtual Legal Assistant",
